@@ -1,4 +1,4 @@
-# WalleX——可跨链区块链钱包
+# WalleX——可跨链区块链钱包/An Blockchain Wallet Enabling cross Chains Swap
 
 ## 一、安装环境要求/Env Requirements
 
